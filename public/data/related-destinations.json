@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-15T17:34:31.359Z",
+  "generatedAt": "2026-10-15T17:39:22.140Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,6 +37,66 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://maineresultsinc.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "gitlab",
+      "label": "GitLab repository",
+      "url": "https://gitlab.com/aiovisibilityhub/maine-results-inc-ai-schemas-y7l0"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "gitlab",
+      "label": "GitLab — AI Data Hub mirror",
+      "url": "https://maine-results-inc-ai-schemas-y7l0-481f4d.gitlab.io/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "huggingface",
+      "label": "Hugging Face repository",
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/maine-results-inc-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "huggingface",
+      "label": "Hugging Face — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub-maine-results-inc-ai-schemas.static.hf.space/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "codeberg",
+      "label": "Codeberg repository",
+      "url": "https://codeberg.org/aiovisibilityhub/maine-results-inc-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "codeberg",
+      "label": "Codeberg — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.codeberg.page/maine-results-inc-ai-schemas/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "kaggle",
+      "label": "Kaggle repository",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/maine-results-inc-ai-schemas"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "sourcehut",
+      "label": "SourceHut repository",
+      "url": "https://aiovisibilityhub.srht.site/maine-results-inc-ai-schemas/"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "sourcehut",
+      "label": "SourceHut — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.srht.site/maine-results-inc-ai-schemas/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/23402052"
     }
   ],
   "destinations": {
@@ -44,6 +104,30 @@
       "url": "https://github.com/AIOVisibilityHub/maine-results-inc-ai-schemas-596d",
       "pagesUrl": "https://maineresultsinc.aiovisibility.net/",
       "repo": "AIOVisibilityHub/maine-results-inc-ai-schemas-596d"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/maine-results-inc-ai-schemas-y7l0",
+      "pagesUrl": "https://maine-results-inc-ai-schemas-y7l0-481f4d.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/maine-results-inc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-maine-results-inc-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/maine-results-inc-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/maine-results-inc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/maine-results-inc-ai-schemas/",
+      "repo": "aiovisibilityhub/maine-results-inc-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/maine-results-inc-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/maine-results-inc-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/maine-results-inc-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23402052"
     }
   }
 }

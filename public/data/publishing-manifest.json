@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-15T17:34:31.419Z",
+  "generatedAt": "2026-10-15T17:39:22.185Z",
   "client": {
     "name": "Maine Results, Inc.",
     "canonicalUrl": "https://maineresultsinc.aiovisibility.net",
@@ -432,7 +432,7 @@
   },
   "package": {
     "totalFiles": 3367,
-    "totalBytes": 10995873,
+    "totalBytes": 11007327,
     "stats": {
       "qna": 0,
       "faqs": 2988,
@@ -17247,7 +17247,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 11351,
+        "bytes": 12509,
         "purpose": "LLM hint"
       },
       {
@@ -17267,32 +17267,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1633,
+        "bytes": 4745,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1546695,
+        "bytes": 1549247,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 433003,
+        "bytes": 434161,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 433003,
+        "bytes": 434161,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 11289,
+        "bytes": 12447,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 541864,
+        "bytes": 543022,
         "purpose": "Repository README"
       },
       {
@@ -17312,6 +17312,30 @@
       "url": "https://github.com/AIOVisibilityHub/maine-results-inc-ai-schemas-596d",
       "pagesUrl": "https://maineresultsinc.aiovisibility.net/",
       "repo": "AIOVisibilityHub/maine-results-inc-ai-schemas-596d"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/maine-results-inc-ai-schemas-y7l0",
+      "pagesUrl": "https://maine-results-inc-ai-schemas-y7l0-481f4d.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/maine-results-inc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-maine-results-inc-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/maine-results-inc-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/maine-results-inc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/maine-results-inc-ai-schemas/",
+      "repo": "aiovisibilityhub/maine-results-inc-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/maine-results-inc-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/maine-results-inc-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/maine-results-inc-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23402052"
     }
   }
 }
