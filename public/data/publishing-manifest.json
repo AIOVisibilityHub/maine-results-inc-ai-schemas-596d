@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-15T02:04:56.935Z",
+  "generatedAt": "2026-10-15T17:33:55.199Z",
   "client": {
     "name": "Maine Results, Inc.",
     "canonicalUrl": "https://maineresultsinc.aiovisibility.net",
@@ -432,7 +432,7 @@
   },
   "package": {
     "totalFiles": 3367,
-    "totalBytes": 11021799,
+    "totalBytes": 11029822,
     "stats": {
       "qna": 0,
       "faqs": 2988,
@@ -17189,14 +17189,14 @@
     "team": [
       {
         "path": "team/john-r-wilkins-profile.json",
-        "bytes": 5669,
+        "bytes": 5537,
         "purpose": "schema"
       }
     ],
     "organization": [
       {
         "path": "organization/maine-results-inc-organization.json",
-        "bytes": 38749,
+        "bytes": 38606,
         "purpose": "schema"
       }
     ],
@@ -17210,32 +17210,32 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16152,
+        "bytes": 21828,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 94459,
+        "bytes": 100112,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 311084,
+        "bytes": 290663,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 14613,
+        "bytes": 20493,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2181939,
+        "bytes": 2187855,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24144,
+        "bytes": 29738,
         "purpose": "LLM-optimized public page"
       }
     ],
