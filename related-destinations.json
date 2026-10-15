@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-10-15T01:44:50.708Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Maine Results, Inc.",
+    "canonicalUrl": "https://maineresultsinc.aiovisibility.net",
+    "primaryWebsiteUrl": "https://maineresults.com",
+    "aiDataHub": "https://maineresultsinc.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Maine Results, Inc. — canonical website",
+      "url": "https://maineresultsinc.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Maine Results, Inc. — AI Data Hub",
+      "url": "https://maineresultsinc.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/maine-results-inc-ai-schemas-596d"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/maine-results-inc-ai-schemas-596d",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/maine-results-inc-ai-schemas-596d"
+    }
+  }
+}
