@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-15T17:33:55.158Z",
+  "generatedAt": "2026-10-15T17:34:31.359Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -36,13 +36,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/maine-results-inc-ai-schemas-596d/ai-data.html"
+      "url": "https://maineresultsinc.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/maine-results-inc-ai-schemas-596d",
-      "pagesUrl": "https://aiovisibilityhub.github.io/maine-results-inc-ai-schemas-596d/",
+      "pagesUrl": "https://maineresultsinc.aiovisibility.net/",
       "repo": "AIOVisibilityHub/maine-results-inc-ai-schemas-596d"
     }
   }
