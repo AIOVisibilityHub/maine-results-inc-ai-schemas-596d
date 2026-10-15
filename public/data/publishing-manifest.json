@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-15T02:04:28.253Z",
+  "generatedAt": "2026-10-15T02:04:56.935Z",
   "client": {
     "name": "Maine Results, Inc.",
     "canonicalUrl": "https://maineresultsinc.aiovisibility.net",
@@ -432,7 +432,7 @@
   },
   "package": {
     "totalFiles": 3367,
-    "totalBytes": 11055505,
+    "totalBytes": 11021799,
     "stats": {
       "qna": 0,
       "faqs": 2988,
@@ -17210,32 +17210,32 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21935,
+        "bytes": 16152,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 100102,
+        "bytes": 94459,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 316802,
+        "bytes": 311084,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20129,
+        "bytes": 14613,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2187491,
+        "bytes": 2181939,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 29638,
+        "bytes": 24144,
         "purpose": "LLM-optimized public page"
       }
     ],
