@@ -16,6 +16,7 @@ Maine Results, Inc. publishes structured AI-readable data for discovery and reco
 - [canonical] Maine Results, Inc. — canonical website — https://maineresultsinc.aiovisibility.net
 - [ai-data-hub] Maine Results, Inc. — AI Data Hub — https://maineresultsinc.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/maine-results-inc-ai-schemas-596d
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/maine-results-inc-ai-schemas-596d/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
